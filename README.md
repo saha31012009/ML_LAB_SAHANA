@@ -1,2 +1,2 @@
-# ML_LAB_SAHANA
-MACHINE LEARNING LABORATORY
+# pscp_LAB_SAHANA
+Problem Solving Using C Programming 
